@@ -20,7 +20,8 @@ GitHub
 AWS EC2
 
 ## Output
-![Screenshot 2024-01-02 115924](https://github.com/Toka008/HR-Case-Study-Absenteeism-Insights-and-Performance-Improvement/assets/63381061/18f18c6f-0146-4cf1-a6e5-deb34628826a)
+an SVC model with an accuracy of 0.76105 on the F1-score. We were ranked 15th out of 293 teams on the Kaggle leaderboard as a result.
+
 
 
 
