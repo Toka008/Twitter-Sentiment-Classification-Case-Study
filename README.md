@@ -11,13 +11,13 @@ Businesses who position themselves as "green" or provide products that lessen th
 
 
 ## Tools Used
-Python
-Streamlit
-scikit-learn
-nltk
-Comet
-GitHub
-AWS EC2
+- Python
+- Streamlit
+- scikit-learn
+- nltk
+- Comet
+- GitHub
+- AWS EC2
 
 ## Output
 - an SVC model with an accuracy of 0.76105 on the F1-score. We were ranked 15th out of 293 teams on the Kaggle leaderboard as a result.
@@ -46,6 +46,7 @@ Special thanks to the project team members for their contributions:
 - Rofhiwa Ntshagovhe (Vice Team Lead)
 - Tolulope Adeleke (Administrative Lead)
 - Olanike Rachael Oluwaseyi
+- Quinn Grace
 
 ## Note
 Due to the sensitive nature of the project, code cannot be shared publicly.
