@@ -20,7 +20,7 @@ GitHub
 AWS EC2
 
 ## Output
-an SVC model with an accuracy of 0.76105 on the F1-score. We were ranked 15th out of 293 teams on the Kaggle leaderboard as a result.
+- an SVC model with an accuracy of 0.76105 on the F1-score. We were ranked 15th out of 293 teams on the Kaggle leaderboard as a result.
 
 Pie chart illustrating the percentage of the dataset's sentiments regarding climate change.
 ![sentiment](https://github.com/Toka008/Twitter-Sentiment-Classification-Case-Study/assets/63381061/fe377e82-a939-41ac-a5ae-c793660314da)
